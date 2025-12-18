@@ -1,0 +1,2 @@
+entry.scroll.frms=http://127.0.0.1/hh_entry_jp_scroller_picture.gif
+entry.scroll.desc=http://127.0.0.1/hh_entry_jp_scroller_data.txt
